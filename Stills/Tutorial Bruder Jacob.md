@@ -14,7 +14,7 @@ Schritt 1:
 
 Schritt 2:
   
-    Um neue Stills hinzuzufügen bitte im Ordner "Stills" oben rechts auf "Add File" und auf "Upload Files" klicken.
+    Um neue Stills hinzuzufügen bitte im Ordner "Stills" (also in diesem hier!) oben rechts auf "Add File" und auf "Upload Files" klicken.
 
 Schritt 3:
 
