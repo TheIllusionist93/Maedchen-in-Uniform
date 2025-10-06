@@ -1,7 +1,7 @@
 # MiU_Stills
-Stills for "Mädchen in Uniform"
+# Stills for "Mädchen in Uniform"
 
-            TUTORIAL FÜR BRUDER JACOB 🫶
+# TUTORIAL FÜR BRUDER JACOB 🫶
 
 Schritt 1:
 
