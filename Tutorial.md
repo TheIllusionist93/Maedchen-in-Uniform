@@ -1,4 +1,4 @@
-# Stills für "Mädchen in Uniform"
+# Stills "Mädchen in Uniform"
 
 # TUTORIAL FÜR BRUDER JACOB 🫶
 
